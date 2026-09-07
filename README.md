@@ -42,3 +42,18 @@ p2_library_Management_system/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
+
+## How to Run
+
+Install the required package:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the program:
+
+```bash
+python p2_library_Management_system.py
+```
